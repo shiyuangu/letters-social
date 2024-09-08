@@ -1,3 +1,4 @@
+// sgu: the variable fa-font-path is defined in node_modules/font-awesome/scss/_variables.scss Cf: https://stackoverflow.com/questions/33649761/how-do-i-load-font-awesome-using-scss-sass-in-webpack-using-relative-paths
 $fa-font-path: '../../static/assets/fonts/';
 @import '../../node_modules/font-awesome/scss/font-awesome';
 @import '../../node_modules/loaders.css/src/variables';
